@@ -1,0 +1,8 @@
+• 
+	1. cd caminho/da/sua/pasta: Entra na pasta do computador onde os arquivos do projeto foram salvos.
+• 
+	2. pip install pandas streamlit: Instala as ferramentas necessárias (o Pandas para o ETL e o Streamlit para o Dashboard).
+• 
+	3. python etl.py: Executa o script de ETL para extrair o CSV, limpar os dados e criar o banco escola.db.
+• 
+	4. streamlit run app.py: Inicia o servidor do Streamlit e abre o dashboard interativo automaticamente no navegador.
